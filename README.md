@@ -5,7 +5,7 @@ Predicting the text is from which of the following category.
  
 Preprocessing the text
 
-Finding the best learning rate (10^-4)
+Finding the best learning rate.
 
 ![dowHugginh](https://user-images.githubusercontent.com/20074508/137627428-742c0b58-bbee-41a5-a92c-6036ac2256a5.png)
 
